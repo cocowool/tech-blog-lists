@@ -1,2 +1,2 @@
-# tech-blog-lists
+# Tech-blog-lists
 Independent Tech Blog Lists
