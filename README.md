@@ -9,6 +9,7 @@ If you have suggestion, please edit the yaml and send me pull request.
 #  中文 / Chinese
 
 ## 个人博客
+* [大江小狼](http://www.edulinks.cn)
 * [泫言](https://blog.cugxuan.cn)
 * [旺阳](https://lqwang.net)
 * [lucifer的网络博客](https://lucifer.ren/blog/)
