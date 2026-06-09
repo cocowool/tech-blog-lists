@@ -1,10 +1,22 @@
-# Tech blog lists
+# popsite.cn - 独立博客发现计划
 
-这个仓库用来收集技术领域的个人博客，如果你希望将自己的博客加到列表中，请编辑 readme.md 并向我发出合并请求。
+这个仓库用来发现并收录那些持续原创、持续更新的个人博客。
+
+## 统计信息 / Statistics
+- 收录博客数量：XX个
+- 最后更新：2026-06-09
+- 本周新增：X个
+
+## 收录的博客列表 / Blog 
+，发如果你希望将自己的博客加到列表中，请编辑 readme.md 并向我发出合并请求。
 
 This repository is some useful blog website conllection, include english and chinese.
 I will check the blog status and remove which never post new articles.
 If you have suggestion, please edit the yaml and send me pull request.
+
+## 最新文章 / Latest Articles
+
+## 如何提交你的博客 / How to submit your blog
 
 #  中文 / Chinese
 
