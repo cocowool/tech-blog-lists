@@ -2,56 +2,52 @@
 
 这个仓库用来发现并收录那些持续原创、持续更新的个人博客。
 
+**网站地址**：https://popsite.cn
+
 ## 统计信息 / Statistics
-- 收录博客数量：XX个
-- 最后更新：2026-06-09
-- 本周新增：X个
+- 收录博客数量：**27** 个
+- 活跃博客：**16** 个
+- 最后更新：**2026-06-10 08:48**
 
 ## 收录的博客列表 / Blog 
-，发如果你希望将自己的博客加到列表中，请编辑 readme.md 并向我发出合并请求。
 
-This repository is some useful blog website conllection, include english and chinese.
-I will check the blog status and remove which never post new articles.
-If you have suggestion, please edit the yaml and send me pull request.
+| 博客名称 | 链接 | 收录时间 | 状态 |
+|---------|------|------|------|
+| Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
+| Dorad | [🔗](https://blog.cuger.cn/) | 2026-06-05 | ✅ 活跃 |
+| GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
+| Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
+| MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
+| Phodal-狼和凤凰 | [🔗](https://www.phodal.com/blog/) | 2026-06-05 | ⚠️ 无RSS |
+| Piglei | [🔗](https://www.piglei.com/) | 2026-06-05 | ✅ 活跃 |
+| Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
+| Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
+| The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
+| forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
+| iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
+| lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
+| winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
+| zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
+| 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
+| 卡片创作实验室 | [🔗](https://www.cnfeat.com/) | 2026-06-08 | ⚠️ 无RSS |
+| 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
+| 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
+| 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
+| 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
+| 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
+| 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
+| 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |
+| 追梦人物 | [🔗](https://www.zmrenwu.com/) | 2026-06-05 | ✅ 活跃 |
+| 阮一峰的网络日志 | [🔗](https://www.ruanyifeng.com/blog/) | 2026-06-05 | ✅ 活跃 |
+| 陈沙克日志 | [🔗](https://chenshake.com/) | 2026-06-08 | ⚠️ 无RSS |
 
-## 最新文章 / Latest Articles
+## 如何提交你的博客
 
-## 如何提交你的博客 / How to submit your blog
+如果你也在坚持写独立博客，欢迎通过以下方式提交：
+1. 在 GitHub 提交 Issue
+2. 直接修改 tech-blog-lists-cn.json 并提交 PR
+3. 访问 popsite.cn 填写表单
 
-#  中文 / Chinese
+---
 
-## 个人博客
-* [大江小狼](http://www.edulinks.cn)
-* [泫言](https://blog.cugxuan.cn)
-* [旺阳](https://lqwang.net)
-* [lucifer的网络博客](https://lucifer.ren/blog/)
-* [zhangguanzhang's Blog](https://zhangguanzhang.github.io)
-* [宇宙湾 - 厚积薄发](https://yuzhouwan.com)
-* [雅绿](https://yalv.me)
-* [Dorad's Life](https://blog.cuger.cn)
-* [Qiu's Blog - 可以的话 再给我一点时间](https://blog.lyneee.com)
-* [五斤](https://www.chairyfish.com)
-* [Hope](https://leohope.com)
-* [林德熙](http://blog.lindexi.com)
-* [宇宙湾 - 厚积薄发](https://yuzhouwan.com)
-* [一之笔的博客 | Yizibi Blog](https://yizibi.github.io)
-* [LinuxTOY](https://linuxtoy.org)
-* [奇客Solidot: 奇客的知识，重要的东西](https://www.solidot.org)
-* [36氪_让一部分人先看到未来](https://www.36kr.com)
-* [JerryQu 的小站](http://www.imququ.com)
-* [风雪之隅 - Laruence的博客](https://www.laruence.com)
-* [酷壳 – CoolShell.cn](https://coolshell.cn)
-* [https://www.aqee.net](https://www.aqee.net)
-* [云风的 BLOG](https://blog.codingnow.com)
-
-# English
-
-## Popular Tech Websites
-* [HowToGeek](https://www.howtogeek.com)
-* [GeeksForGeeks](https://www.geeksforgeeks.org)
-* [Linux Journal](http://www.linuxjournal.com)
-* [readwrite](https://readwrite.com)
-* [ZDnet](https://www.zdnet.com)
-
-## Personal Blogs
-* [kvz.io](https://kvz.io)
+_本项目由 [cocowool](https://github.com/cocowool) 维护_
