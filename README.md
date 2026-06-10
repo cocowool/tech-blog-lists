@@ -5,9 +5,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**31** 个
-- 活跃博客：**19** 个
-- 最后更新：**2026-06-10 17:43:36**
+- 收录博客数量：**32** 个
+- 活跃博客：**20** 个
+- 最后更新：**2026-06-10 17:57:26**
 
 ## 收录的博客列表 / Blog 
 
@@ -20,6 +20,7 @@
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
+| OneV's Den | [🔗](https://onevcat.com/) | 2026-06-10 | ✅ 活跃 |
 | Phodal-狼和凤凰 | [🔗](https://www.phodal.com/blog/) | 2026-06-05 | ⚠️ 无RSS |
 | Piglei | [🔗](https://www.piglei.com/) | 2026-06-05 | ✅ 活跃 |
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |

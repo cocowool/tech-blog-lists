@@ -246,5 +246,13 @@
         "rss": "https://blog.devtang.com/atom.xml",
         "status": "active",
         "added_date": "2026-06-10"
-    }
+    },
+    {
+        "name": "OneV's Den",
+        "url": "https://onevcat.com/",
+        "description": "上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。",
+        "rss": "https://onevcat.com/feed",
+        "status": "active",
+        "added_date": "2026-06-10"
+    }    
 ]
