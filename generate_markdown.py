@@ -28,7 +28,7 @@ def generate_readme():
 ## 统计信息 / Statistics
 - 收录博客数量：**{total_count}** 个
 - 活跃博客：**{active_count}** 个
-- 最后更新：**{datetime.now().strftime('%Y-%m-%d %H:%M')}**
+- 最后更新：**{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}**
 
 ## 收录的博客列表 / Blog 
 
