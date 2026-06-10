@@ -44,8 +44,12 @@ def get_blog_info(url, method = "requests"):
 
         # 获取博客标题
         blog_title = soup.title.string.strip() if soup.title else ''
+        
+        # 获取 Description
         tag_description = soup.find('meta', attrs={'name': 'description'})
-        blog_description = tag_description['content'].strip() if tag_description and tag_description.get('context') else ''
+        # print(tag_description['content'])
+        blog_description = tag_description['content'].strip() if tag_description and tag_description.get('content') else ''
+        # print("Blog Description:" + blog_description)
 
         # 探测RSS
         tag_rss = soup.find('link', attrs={'type': 'application/rss|application/atom'})
@@ -68,7 +72,9 @@ def get_blog_info(url, method = "requests"):
             "name" : blog_title,
             "url" : url,
             "description" : blog_description,
-            "rss_url" : blog_rss_url if tag_rss else ''
+            "rss" : blog_rss_url if tag_rss else '',
+            "status" : "active" if tag_rss else "no_rss",
+            "added_date" : time.strftime('%Y-%m-%d', time.localtime())
         }
 
         print("Get Blog Info Success:")

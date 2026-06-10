@@ -222,5 +222,13 @@
         "rss": "",
         "status":"active",
         "added_date":"2026-06-10"
+    },
+    {
+        "name": "Lucifr",
+        "url": "https://lucifr.com/",
+        "description": "Thoughts, stories and ideas.",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-06-10"
     }
 ]
