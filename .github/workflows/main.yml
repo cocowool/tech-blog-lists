@@ -1,0 +1,32 @@
+name: Update README.md
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # 每天北京时间凌晨 2:00
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4
+
+      - name: Generate Markdown files
+        run: python generate_markdown.py  # 新生成的脚本
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "cocowool@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto update [skip ci]"
+          git push
