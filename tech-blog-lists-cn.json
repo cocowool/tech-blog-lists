@@ -230,5 +230,13 @@
         "rss": "",
         "status": "no_rss",
         "added_date": "2026-06-10"
+    },
+    {
+        "name": "ChrAlpha's Blog",
+        "url": "https://blog.ichr.me/",
+        "description": "ChrAlpha's Blog —— 技术向，记录着我的折腾小结；没事发些笔记、随笔、见闻；也愿能承载更多有态度有看法的文章 - Chrys (@ChrAlpha)",
+        "rss": "https://blog.ichr.me/atom.xml",
+        "status": "active",
+        "added_date": "2026-06-10"
     }
 ]
