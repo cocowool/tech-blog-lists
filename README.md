@@ -5,9 +5,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**27** 个
-- 活跃博客：**16** 个
-- 最后更新：**2026-06-10 08:48**
+- 收录博客数量：**28** 个
+- 活跃博客：**17** 个
+- 最后更新：**2026-06-10 02:49**
 
 ## 收录的博客列表 / Blog 
 
@@ -30,6 +30,7 @@
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
 | 卡片创作实验室 | [🔗](https://www.cnfeat.com/) | 2026-06-08 | ⚠️ 无RSS |
+| 囧克斯 | [🔗](https://jiongks.name/) | 2026-06-10 | ✅ 活跃 |
 | 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
