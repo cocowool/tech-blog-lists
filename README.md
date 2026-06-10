@@ -5,18 +5,20 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**28** 个
-- 活跃博客：**17** 个
-- 最后更新：**2026-06-10 03:16:40**
+- 收录博客数量：**31** 个
+- 活跃博客：**19** 个
+- 最后更新：**2026-06-10 17:43:36**
 
 ## 收录的博客列表 / Blog 
 
 | 博客名称 | 链接 | 收录时间 | 状态 |
 |---------|------|------|------|
+| ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
 | Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
 | Dorad | [🔗](https://blog.cuger.cn/) | 2026-06-05 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
+| Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
 | Phodal-狼和凤凰 | [🔗](https://www.phodal.com/blog/) | 2026-06-05 | ⚠️ 无RSS |
 | Piglei | [🔗](https://www.piglei.com/) | 2026-06-05 | ✅ 活跃 |
@@ -30,6 +32,7 @@
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
 | 卡片创作实验室 | [🔗](https://www.cnfeat.com/) | 2026-06-08 | ⚠️ 无RSS |
+| 唐巧的博客 | [🔗](https://blog.devtang.com/) | 2026-06-10 | ✅ 活跃 |
 | 囧克斯 | [🔗](https://jiongks.name/) | 2026-06-10 | ✅ 活跃 |
 | 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |

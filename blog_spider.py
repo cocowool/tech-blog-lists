@@ -7,7 +7,7 @@ import cgi
 import json
 import pypinyin
 import chardet
-
+from urllib.parse import urljoin
 
 
 # 读取中文博客列表清单，生成 Markdown 格式的列表
@@ -52,9 +52,10 @@ def get_blog_info(url, method = "requests"):
         # print("Blog Description:" + blog_description)
 
         # 探测RSS
-        tag_rss = soup.find('link', attrs={'type': 'application/rss|application/atom'})
+        blog_rss_url = ''
+        tag_rss = soup.find('link', type=re.compile(r'application/(rss|atom)\+?xml?'))
         if tag_rss and tag_rss.get('href'):
-            blog_rss_url = tag_rss['href']
+            blog_rss_url = urljoin(url,tag_rss['href'])
         else:
             # 尝试常见路径
             common_paths = ['/feed', '/atom.xml', '/rss.xml', '/feed.xml', '/index.xml', '/?feed=rss2']
@@ -62,9 +63,12 @@ def get_blog_info(url, method = "requests"):
                 try:
                     test_url = url.rstrip('/') + path
                     test_res = requests.get(test_url, headers=my_headers, timeout=5)
-                    if test_res.status_code == 200 and ('xml' in test_res.text[:100] or 'rss' in test_res.text[:100]):
-                        rss_url = test_url
-                        break
+                    if test_res.status_code == 200:
+                        content_type = test_res.headers.get('Content-Type', '')
+                        text_head = test_res.text[:200].strip()
+                        if 'xml' in content_type or text_head.startswith('<?xml') or '<rss' in text_head or '<feed' in text_head:
+                            blog_rss_url = test_url
+                            break
                 except:
                     pass
 
@@ -72,8 +76,8 @@ def get_blog_info(url, method = "requests"):
             "name" : blog_title,
             "url" : url,
             "description" : blog_description,
-            "rss" : blog_rss_url if tag_rss else '',
-            "status" : "active" if tag_rss else "no_rss",
+            "rss" : blog_rss_url,
+            "status" : "active" if blog_rss_url else "no_rss",
             "added_date" : time.strftime('%Y-%m-%d', time.localtime())
         }
 

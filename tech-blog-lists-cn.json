@@ -238,5 +238,13 @@
         "rss": "https://blog.ichr.me/atom.xml",
         "status": "active",
         "added_date": "2026-06-10"
+    },
+    {
+        "name": "唐巧的博客",
+        "url": "https://blog.devtang.com/",
+        "description": "希望通过这个博客，能够将自己的学习成果总结出来，与大家分享交流。",
+        "rss": "https://blog.devtang.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-06-10"
     }
 ]
