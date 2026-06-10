@@ -214,5 +214,13 @@
         "rss":"",
         "status":"no_rss",
         "added_date":"2026-06-09"
+    },
+    {
+        "name": "囧克斯",
+        "url": "https://jiongks.name/",
+        "description": "",
+        "rss": "",
+        "status":"active",
+        "added_date":"2026-06-10"
     }
 ]
