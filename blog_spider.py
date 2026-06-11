@@ -26,7 +26,8 @@ def get_blog_info(url, method = "requests"):
 
         s = requests.session()
         s.keep_alive = False
-        response = s.get(url, headers = my_headers, cookies = my_cookie)
+        response = s.get(url, headers = my_headers, timeout = 10)
+        response.raise_for_status()  # 如果响应状态码不是 200，会抛出 HTTPError 异常
 
         # 判断网页编码
         charset_data = chardet.detect( response.content )
@@ -43,7 +44,7 @@ def get_blog_info(url, method = "requests"):
         soup = BeautifulSoup(response.text, 'html.parser')
 
         # 获取博客标题
-        blog_title = soup.title.string.strip() if soup.title else ''
+        blog_title = soup.title.get_text(strip=True) if soup.title else ''
         
         # 获取 Description
         tag_description = soup.find('meta', attrs={'name': 'description'})

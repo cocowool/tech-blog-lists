@@ -5,19 +5,21 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**32** 个
-- 活跃博客：**20** 个
-- 最后更新：**2026-06-10 20:28:58**
+- 收录博客数量：**34** 个
+- 活跃博客：**22** 个
+- 最后更新：**2026-06-11 18:59:43**
 
 ## 收录的博客列表 / Blog 
 
 | 博客名称 | 链接 | 收录时间 | 状态 |
 |---------|------|------|------|
+|  | [🔗](https://colobu.com/) | 2026-06-11 | ✅ 活跃 |
 | ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
 | Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
 | Dorad | [🔗](https://blog.cuger.cn/) | 2026-06-05 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
+| Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
 | OneV's Den | [🔗](https://onevcat.com/) | 2026-06-10 | ✅ 活跃 |
@@ -52,6 +54,10 @@
 1. 在 GitHub 提交 Issue
 2. 直接修改 tech-blog-lists-cn.json 并提交 PR
 3. 访问 popsite.cn 填写表单
+
+## 希望能在您的站点上添加友情链接
+
+为了更好的推广本站，诚挚的希望您能将本站添加至友情链接中，非常感谢。
 
 ---
 

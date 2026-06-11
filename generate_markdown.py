@@ -12,6 +12,7 @@ def generate_readme():
     # 生成表格
     table_rows = []
     for blog in sorted(blogs, key=lambda x: x.get('name', '')):
+        print(blog.get('name', '未知'))
         name = blog.get('name', '未知')
         url = blog.get('url', '#')
         added_date = blog.get('added_date')
@@ -19,6 +20,8 @@ def generate_readme():
         
         table_rows.append(f"| {name} | [🔗]({url}) | {added_date} | {status} |")
     
+    # print(blogs)
+    # print(table_rows)
     readme_content = f"""# popsite.cn - 独立博客发现计划
 
 这个仓库用来发现并收录那些持续原创、持续更新的个人博客。
@@ -42,6 +45,10 @@ def generate_readme():
 1. 在 GitHub 提交 Issue
 2. 直接修改 tech-blog-lists-cn.json 并提交 PR
 3. 访问 popsite.cn 填写表单
+
+## 希望能在您的站点上添加友情链接
+
+为了更好的推广本站，诚挚的希望您能将本站添加至友情链接中，非常感谢。
 
 ---
 

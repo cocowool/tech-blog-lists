@@ -254,5 +254,21 @@
         "rss": "https://onevcat.com/feed",
         "status": "active",
         "added_date": "2026-06-10"
+    },
+    {
+        "name": "",
+        "url": "https://colobu.com/",
+        "description": "万物之始，大道至简，衍化至繁",
+        "rss": "https://colobu.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-06-11"
+    },
+    {
+        "name": "Limboy's HQ",
+        "url": "https://limboy.me/",
+        "description": "Limboy's HQ",
+        "rss": "https://limboy.me/index.xml",
+        "status": "active",
+        "added_date": "2026-06-11"
     }    
 ]
