@@ -270,5 +270,13 @@
         "rss": "https://limboy.me/index.xml",
         "status": "active",
         "added_date": "2026-06-11"
+    },
+    {
+        "name": "bang's blog",
+        "url": "https://blog.cnbang.net/",
+        "description": "",
+        "rss": "https://blog.cnbang.net/feed/",
+        "status": "active",
+        "added_date": "2026-06-12"
     }    
 ]
