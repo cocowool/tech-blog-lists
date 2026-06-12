@@ -278,5 +278,13 @@
         "rss": "https://blog.cnbang.net/feed/",
         "status": "active",
         "added_date": "2026-06-12"
-    }    
+    },
+    {
+        "name": "I'm TualatriX",
+        "url": "https://imtx.me",
+        "description": "图拉鼎（TualatriX）的个人主页，分享围绕着独立产品开发、iOS 开发、Web 开发等心路历程。",
+        "rss": "http://feeds.feedburner.com/tualatrix",
+        "status": "active",
+        "added_date": "2026-06-12"
+    }
 ]
