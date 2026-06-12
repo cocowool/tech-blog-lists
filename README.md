@@ -5,9 +5,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**34** 个
-- 活跃博客：**22** 个
-- 最后更新：**2026-06-11 20:20:20**
+- 收录博客数量：**36** 个
+- 活跃博客：**24** 个
+- 最后更新：**2026-06-12 20:09:14**
 
 ## 收录的博客列表 / Blog 
 
@@ -18,6 +18,7 @@
 | Dorad | [🔗](https://blog.cuger.cn/) | 2026-06-05 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
+| I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
@@ -27,6 +28,7 @@
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
+| bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
 | iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
 | lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
